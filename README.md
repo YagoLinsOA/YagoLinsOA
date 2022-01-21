@@ -10,8 +10,7 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YagoLinsOA&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=false"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoLinsOA&layout=compact&langs_count=7&theme=vue-dark"/>
  </div></br>
- ##
-  <div align="center" style="display: inline_block"><br>
+ <div align="center" style="display: inline_block"><br>
     <img align="center" height="67" width="82" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
     <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   </div>
