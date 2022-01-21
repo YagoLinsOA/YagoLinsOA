@@ -3,7 +3,7 @@
 - Atualmente me dedicando a linguagem JAVA com Programação Orientada à Objetos.
 - Estudando Big Data and Analytics.
 - <div>  <a href = "mailto:linsyago1@gmail.com"><img align="center" height="25" width="85" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/yago-alves-216813186/" target="_blank"><img align="center" height="25" width="95" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div> </br>
+  </div> 
   
  <div align="center">
     <a href="https://github.com/YagoLinsOA">
