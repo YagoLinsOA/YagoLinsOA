@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**YagoLinsOA/YagoLinsOA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Olá!! Me chamo Yago Lins, estudante de Análise e Desenvolvimento de Sistemas e Tecnologia 💻
+##
+- Atualmente me dedicando a linguagem JAVA com Programação Orientada à Objetos.
+- Estudando Big Data and Analytics.
+- <div>  <a href = "mailto:linsyago1@gmail.com"><img align="center" height="25" width="85" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/yago-alves-216813186/" target="_blank"><img align="center" height="25" width="95" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div> </br>
+  
+ <div align="center">
+    <a href="https://github.com/YagoLinsOA">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YagoLinsOA&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoLinsOA&layout=compact&langs_count=7&theme=vue-dark"/>
+ </div>
+ 
+  <div align="center" style="display: inline_block"><br>
+    <img align="center" height="77" width="92" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+    <img align="center" height="95" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  </div>
